@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 196, 51);
+    color: black(13, 99, 228, 0.714);
+}
+#borderDemo {
+    border: 5px dotted #131111;
+    border-radius: 40px 39px 40px 40px;
+    }
+    #demotext {
+        color: #FFFFFF;
+        background: #912C22;
+        text-shadow: 0 0 30px #FFFFFF;
+        color: #FFFFFF;
+        background: #912C22;
+    }
+    
